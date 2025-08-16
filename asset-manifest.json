@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/umd/static/css/main.9df7d6f9.css",
+    "main.js": "/umd/static/js/main.d007ece9.js",
+    "index.html": "/umd/index.html",
+    "main.9df7d6f9.css.map": "/umd/static/css/main.9df7d6f9.css.map",
+    "main.d007ece9.js.map": "/umd/static/js/main.d007ece9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df7d6f9.css",
+    "static/js/main.d007ece9.js"
+  ]
+}
